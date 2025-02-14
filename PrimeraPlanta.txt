@@ -1,0 +1,4 @@
+Estamos en la planta principal
+Está compuesta por las siguientes habitaciones:
+- Hall
+- Bar
