@@ -1,4 +1,6 @@
 Estamos en la planta principal
 Está compuesta por las siguientes habitaciones:
 - Hall
-- Bar
+- Bar 
+- Guardarropa
+- Sala de reuniones
