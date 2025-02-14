@@ -1,0 +1,5 @@
+Estamos en la segunda planta
+Está compuesta por las siguientes habitaciones:
+- Habitaciones 201-241
+- Cuarto de limpieza
+- Cuarto de vigilantes
