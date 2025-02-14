@@ -1,0 +1,5 @@
+Estamos en la tercera planta
+Está compuesta por las siguientes habitaciones:
+- Habitaciones 301-341
+- Cuarto de mantenimiento
+- Sauna
